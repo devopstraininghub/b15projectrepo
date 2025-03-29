@@ -1,1 +1,0 @@
-Git conflicts occur when Git cannot automatically merge changes between two or more branches because changes to the same lines of code or overlapping areas have been made in different branches. Here's how you can resolve Git conflicts effectively:
