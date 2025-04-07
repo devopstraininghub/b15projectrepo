@@ -1,4 +1,0 @@
-As of now rebase means if we tried to push your changes to central repository and we get some error that "remote contain changes that local doesn't have" at that time we will use rebase and make our local repository updated. After that we will push the changes.
-
-
-
